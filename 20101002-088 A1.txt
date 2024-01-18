@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HMZ CV</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body style="background-color: #cecece; border: 5px solid rgb(0, 0, 0);">
+
+        <div style="text-align: center; background-color:black; color:white;">
+        <h2>MY CV</h2>
+        
+        <p><b>NAME</b>:</p>
+        <p><b>GMAIL</b>: xyz@gmail.com</p>
+        <p><b>PHONE NO</b>: +0000000000000</p>
+        <p><b>ADDRESS</b>: Mubarak Pura</p>
+        </div>
+        <hr style="width: 50%; margin: auto; margin-top: 20px;">
+        
+   
+    <div style="background-color:black; color:white; width: 60%; margin: auto; ">
+    <h2 style="text-align: center;">MY INTERO</h2></div>
+
+    <center><p>
+
+      <b>
+      AoA,
+      </b><br>
+      My name is <b></b>. <br>
+      And i am from <b>Daska</b> the city of <b> PAKISTAN </b>.<br>
+      I am student of BSCS in <b>university of Sialkot</b>.<br>
+      And i am hoping to make a positive impact in the field <br> of computer science.
+    </p></center>
+
+
+    </div>
+    <div style="background-color:black; color:white; width: 60%; margin: auto;">
+    <h2 style="text-align: center;">EDUCATION</h2></div>
+    <table border="5px" style="margin: 0 auto;">
+   
+        <tr>
+            <th>Degree</th>
+            <th>Institution</th>
+            <th>Year</th>
+        </tr>
+        <tr>
+            <td>Matric</td>
+            <td>Allied School</td>
+            <td>2017</td>
+        </tr>
+        <tr>
+            <td>ICS</td>
+            <td>Punjab College</td>
+            <td>2019</td>
+        </tr>
+        <tr>
+            <td>BSCS</td>
+            <td>USKT</td>
+            <td>2020</td>
+        </tr>
+    </table>
+
+    <div style="background-color:black; color:white; width: 60%; margin: auto;">
+    <h2 style="text-align: center;">PROFESSIONAL SKILLS</h2></div>
+    <ul.a style="list-style-type: disc; text-align: center;">
+        <li>Communication</li>
+        <li>Problem-solving</li>
+        <li>Critical thinking</li>
+        <li>Time management</li>
+        <li>Decision-making</li>
+    </ul>
+
+    <div style="background-color:black; color:white; width: 60%; margin: auto;">
+    <h2 style="text-align: center;">LIST OF PROJECTS</h2></div>
+    <ul.a style="list-style-type: disc; text-align: center; padding: 0;">
+        <li>websites</li>
+        <li>scientific calculator C++</li>
+        <li>Games</li>
+        <li>Android Roms</li>
+    </ul>
+
+
+    <div style="background-color:black; color:white; width: 60%; margin: auto;">
+    <h2 style="text-align: center;">HOBBIES</h2></div>
+    <ol.b style="list-style-type: decimal;text-align: center; padding: 0;">
+        <li>Watching movies and series</li>
+        <li>Cooking</li>
+        <li>Playing Games</li>
+        <li>Photography</li>
+        <li>Exercise</li>
+    </ol>
+
+
+    <div style="background-color:black; color:white; width: 60%; margin: auto;">
+    <h2 style="text-align: center;">MY LIFE AMBITION</h2></div>
+
+
+     <p><u>My life ambition as a Muslim</u> is to embody the values of compassion, 
+    <br>integrity, and service to humanity, contributing positively to society 
+    <br>and striving to leave a lasting, beneficial impact in accordance <br >with Islamic teachings.</p>
+
+    <p><u>My life ambition as a BSCS graduate</u> is to innovate and contribute to
+    <br> the technological landscape, leveraging your skills to create 
+    impactful <br>solutions, and staying at the forefront of technological advancement.</p>
+
+    <p><u>My life ambition as a good human being</u> is to spread kindness,contribute
+    <br> to the well-being of others, and leave a positive impact on the world 
+    <br> through compassion and empathy.</p></justify>
+    
+   
+
+
+    <div style="background-color:black; color:white; width: 60%; margin: auto;">
+    <h2 style="text-align: center;">
+      WHAT I DID FOR MY COUNTRY
+    </h2></DIV>
+    <p><center>
+        Pay tax
+        <br>Donations
+        <br>Made some videos showcasing the beauty of PAKISTAN
+    </p></center>
+
+    <div style="background-color:black; color:white; width: 60%; margin: auto;">
+    <h2 style="text-align: center;">WHAT I WANT TO DO FOR MY COUNTRY</h2></div>
+    <center><p>
+        Civic Participation<br>
+        Community Service<br>
+        Education Promotion<br>
+        Environmental Responsibility<br>
+        Social Harmony<br>
+        Economic Development<br>
+        Peace and Security Advocacy<br>
+    </p></center>
+
+     <div style="background-color:black; color:white; width: 60%; margin: auto;">
+    <h2 style="text-align: center;">AWESOME PLACES OF PAKISTAN THAT I VISITED</h2></div>
+    <center><p>
+
+     Badshahi Mosque <br>
+     Lahore Fort (Shahi Qila) <br>
+     Lahore Museum <br>
+     Minar-e-Pakistan <br>
+     Anarkali Bazaar <br>
+     Faisal Mosque <br>
+     Centaurus Mall <br>
+    </p></center>
+    
+   <hr>
+   <footer>
+    <p>Created by: HMH<br>
+    <i class="fa fa-envelope" style="font-size:28px;color:red"></i><br>
+    <a href="#" class="fa fa-facebook"></a>
+    <a href="#" class="fa fa-instagram"></a>
+    <a href="#" class="fa fa-linkedin"></a>
+    </footer>
+
+
+</body>
+</html>

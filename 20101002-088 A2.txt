@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>One Web Page</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>        
+    body{
+        background-color: cornsilk;
+    }
+    .main{
+        margin-left:20%;
+        margin-right: 20%;
+    }
+    </style>
+
+    
+</head>
+<body >
+    <div class="main">
+    <div style="text-align: center; background-color:black; color:white; width: 60%; margin: auto;"></div>
+    <h3>Create a web page</h3>
+    <br>
+    <h3>Name:</h3>
+    <h3>Introduction:</h3>
+    <p>I'm From Sialkot the city of Punjab,Pakitsan.<br>I'm 22 years old.I have completed my school education from the Educators School.<br>I went to Superior college for intermedite and done FSC in Pre Engineering.<br>I also got certificate in Hifz ul Quran from Jamia Nuamania.<br>I have a great interest in computer Science thats why I take admission in BSCS at University of Sialkot.</p>
+    </div>
+    
+    <div style="background-color:black; color:white; width: 60%; margin: auto; ">
+        <h2 style="text-align: center;">Hobbies</h2></div>
+            <ul.a style="list-style-type: disc; text-align: center;">
+                <li>Cricket</li>
+                <li>Programming</li>
+                <li>Running</li>
+                <li>Reading</li>
+                <li>Driving</li>
+            </ul>
+
+        <div style="background-color:black; color:white; width: 60%; margin: auto; ">
+        <h2 style="text-align: center;">Places that I visit</h2></div>
+    <ol.a style="list-style-type: disc; text-align: center;">
+        <li>Minar-e-Pakistan</li>
+<img src="C:\Users\H P\Downloads\minar pak.jpg" height="100px" width="100px" style="margin-left: 45%;"><br>
+        <li>Badshahi Mosque</li>
+<img src="C:\Users\H P\Downloads\badsahai masjid.jpg" height="100px" width="100px" style="margin-left: 45%;"><br>
+        <li>Faisal Mosque</li>
+<img src="C:\Users\H P\Downloads\faisal masjid.jpg" height="100px" width="100px" style="margin-left: 45%;"><br>
+        <li>rohtas Fort Jehlum</li>
+<img src="C:\Users\H P\Downloads\Rohtas_Fort.jpg" height="100px" width="100px" style="margin-left: 45%;"><br>
+        <li>Quaid-e-Azam Tomb</li>
+<img src="C:\Users\H P\Downloads\Jinnah_Mausoleum.jfif" height="100px" width="100px" style="margin-left: 45%;"><br>
+    </ol>
+    <br>
+
+    <div style="background-color:black; color:white; width: 60%; margin: auto; ">
+    <h2 style="text-align: center;">CV</h2></div>
+    <h3>Name: </h3>
+    <h3>Email: </h3>
+
+    
+
+
+    <table border="2px" style="margin:auto">
+    <tr>
+        <th>Institues</th>
+        <th>Degree</th>
+        <th>Year</th>
+    </tr>
+    <tr>
+        <td>The Educators School</td>
+        <td>Matric Computer </td>
+        <td>2017</td>
+    </tr>
+    <tr>
+        <td>Superior College</td>
+        <td>ICS</td>
+        <td>2019</td>
+    </tr>
+    <tr>
+        <td>University of Sialkot</td>
+        <td>BSCS</td>
+        <td>2020-2024</td>
+    </tr>
+    
+    </table>
+
+    <div style="background-color:black; color:white; width: 60%; margin: auto; ">
+    <h2 style="text-align: center;">Professional Skills</h2></div>
+    
+    <ul.a style="list-style-type: disc; text-align: center;">
+        <li>Coding</li>
+        <li>Excel</li>
+        <li>Ms Word</li>
+    </ul>
+
+    <div style="background-color:black; color:white; width: 60%; margin: auto; ">
+    <h2 style="text-align: center;">Projects we developed</h2></div>
+    <ul.a style="list-style-type: disc; text-align: center;">
+        <li>Car parking system</li>
+        <li>Billing System</li> 
+        <li>tic tac toe</li>
+    </ul>
+
+    <div style="background-color:black; color:white; width: 60%; margin: auto;">
+        <h2 style="text-align: center;">MY LIFE AMBITION</h2></div>
+    
+    
+         <p>1. I want to acheive all my goals and ambitions for which I have worked hard.<br>2. I want to serve humanity by my work as well as by my character.<br>3. I want to raise a happy and healthy family.<br>4. I want to become a good athelte as well.<br>5. I want to become a good muslim to serve my religion as well.</p>
+   
+    <div style="background-color:black; color:white; width: 60%; margin: auto;">
+    <h2 style="text-align: center;">What I did for my country</h2></div>
+       
+    <p style="text-align: center;"> I have take part in green Pakistan initiative and I planted lots of trees.I also motivate other people to take part in this program and make environment good for human beings.
+</p>
+
+    <hr>
+    <footer>
+    <p>Created by: HMH<br>
+    <i class="fa fa-envelope" style="font-size:28px;color:red"></i><br>
+    <a href="#" class="fa fa-facebook"></a>
+    <a href="#" class="fa fa-instagram"></a>
+    <a href="#" class="fa fa-linkedin"></a>
+    </footer>
+    
+</div>
+</body>
+</html>
